@@ -1,4 +1,156 @@
 ﻿Año;Comunidades y Ciudades Autónomas;Teletrabajo;Total
+2022;01 Andalucía;Han teletrabajado;5
+2022;01 Andalucía;No han teletrabajado aunque su trabajo les permitiría teletrabajar;9,5
+2022;01 Andalucía;No han teletrabajado porque su trabajo no les permitiría teletrabajar;38,8
+2022;01 Andalucía;No han trabajado;46,8
+2022;02 Aragón;Han teletrabajado;4,6
+2022;02 Aragón;No han teletrabajado aunque su trabajo les permitiría teletrabajar;11,1
+2022;02 Aragón;No han teletrabajado porque su trabajo no les permitiría teletrabajar;44,8
+2022;02 Aragón;No han trabajado;39,5
+2022;03 Asturias, Principado de;Han teletrabajado;3,9
+2022;03 Asturias, Principado de;No han teletrabajado aunque su trabajo les permitiría teletrabajar;9
+2022;03 Asturias, Principado de;No han teletrabajado porque su trabajo no les permitiría teletrabajar;38,6
+2022;03 Asturias, Principado de;No han trabajado;48,5
+2022;04 Balears, Illes;Han teletrabajado;4,4
+2022;04 Balears, Illes;No han teletrabajado aunque su trabajo les permitiría teletrabajar;11,1
+2022;04 Balears, Illes;No han teletrabajado porque su trabajo no les permitiría teletrabajar;50,5
+2022;04 Balears, Illes;No han trabajado;34
+2022;05 Canarias;Han teletrabajado;5,8
+2022;05 Canarias;No han teletrabajado aunque su trabajo les permitiría teletrabajar;7,5
+2022;05 Canarias;No han teletrabajado porque su trabajo no les permitiría teletrabajar;42,5
+2022;05 Canarias;No han trabajado;44,2
+2022;06 Cantabria;Han teletrabajado;5
+2022;06 Cantabria;No han teletrabajado aunque su trabajo les permitiría teletrabajar;10,6
+2022;06 Cantabria;No han teletrabajado porque su trabajo no les permitiría teletrabajar;44,2
+2022;06 Cantabria;No han trabajado;40,2
+2022;07 Castilla y León;Han teletrabajado;7
+2022;07 Castilla y León;No han teletrabajado aunque su trabajo les permitiría teletrabajar;9,1
+2022;07 Castilla y León;No han teletrabajado porque su trabajo no les permitiría teletrabajar;41,3
+2022;07 Castilla y León;No han trabajado;42,5
+2022;08 Castilla - La Mancha;Han teletrabajado;3,2
+2022;08 Castilla - La Mancha;No han teletrabajado aunque su trabajo les permitiría teletrabajar;9,6
+2022;08 Castilla - La Mancha;No han teletrabajado porque su trabajo no les permitiría teletrabajar;47,6
+2022;08 Castilla - La Mancha;No han trabajado;39,6
+2022;09 Cataluña;Han teletrabajado;13,6
+2022;09 Cataluña;No han teletrabajado aunque su trabajo les permitiría teletrabajar;13,8
+2022;09 Cataluña;No han teletrabajado porque su trabajo no les permitiría teletrabajar;35
+2022;09 Cataluña;No han trabajado;37,6
+2022;10 Comunitat Valenciana;Han teletrabajado;6,5
+2022;10 Comunitat Valenciana;No han teletrabajado aunque su trabajo les permitiría teletrabajar;12,9
+2022;10 Comunitat Valenciana;No han teletrabajado porque su trabajo no les permitiría teletrabajar;36,9
+2022;10 Comunitat Valenciana;No han trabajado;43,6
+2022;11 Extremadura;Han teletrabajado;3,1
+2022;11 Extremadura;No han teletrabajado aunque su trabajo les permitiría teletrabajar;9,4
+2022;11 Extremadura;No han teletrabajado porque su trabajo no les permitiría teletrabajar;39,7
+2022;11 Extremadura;No han trabajado;47,8
+2022;12 Galicia;Han teletrabajado;4,6
+2022;12 Galicia;No han teletrabajado aunque su trabajo les permitiría teletrabajar;10,6
+2022;12 Galicia;No han teletrabajado porque su trabajo no les permitiría teletrabajar;37,1
+2022;12 Galicia;No han trabajado;47,7
+2022;13 Madrid, Comunidad de;Han teletrabajado;15,4
+2022;13 Madrid, Comunidad de;No han teletrabajado aunque su trabajo les permitiría teletrabajar;10
+2022;13 Madrid, Comunidad de;No han teletrabajado porque su trabajo no les permitiría teletrabajar;36,6
+2022;13 Madrid, Comunidad de;No han trabajado;38
+2022;14 Murcia, Región de;Han teletrabajado;4,8
+2022;14 Murcia, Región de;No han teletrabajado aunque su trabajo les permitiría teletrabajar;12
+2022;14 Murcia, Región de;No han teletrabajado porque su trabajo no les permitiría teletrabajar;37,8
+2022;14 Murcia, Región de;No han trabajado;45,4
+2022;15 Navarra, Comunidad Foral de;Han teletrabajado;6,6
+2022;15 Navarra, Comunidad Foral de;No han teletrabajado aunque su trabajo les permitiría teletrabajar;15,9
+2022;15 Navarra, Comunidad Foral de;No han teletrabajado porque su trabajo no les permitiría teletrabajar;40,6
+2022;15 Navarra, Comunidad Foral de;No han trabajado;36,9
+2022;16 País Vasco;Han teletrabajado;7,7
+2022;16 País Vasco;No han teletrabajado aunque su trabajo les permitiría teletrabajar;11,4
+2022;16 País Vasco;No han teletrabajado porque su trabajo no les permitiría teletrabajar;37,5
+2022;16 País Vasco;No han trabajado;43,4
+2022;17 Rioja, La;Han teletrabajado;4,7
+2022;17 Rioja, La;No han teletrabajado aunque su trabajo les permitiría teletrabajar;12,1
+2022;17 Rioja, La;No han teletrabajado porque su trabajo no les permitiría teletrabajar;46,5
+2022;17 Rioja, La;No han trabajado;36,7
+2022;18 Ceuta;Han teletrabajado;3,7
+2022;18 Ceuta;No han teletrabajado aunque su trabajo les permitiría teletrabajar;8,4
+2022;18 Ceuta;No han teletrabajado porque su trabajo no les permitiría teletrabajar;37
+2022;18 Ceuta;No han trabajado;51
+2022;19 Melilla;Han teletrabajado;2,2
+2022;19 Melilla;No han teletrabajado aunque su trabajo les permitiría teletrabajar;9,3
+2022;19 Melilla;No han teletrabajado porque su trabajo no les permitiría teletrabajar;46,2
+2022;19 Melilla;No han trabajado;42,3
+2022;01 Andalucía;Han teletrabajado;9,4
+2022;01 Andalucía;No han teletrabajado aunque su trabajo les permitiría teletrabajar;17,8
+2022;01 Andalucía;No han teletrabajado porque su trabajo no les permitiría teletrabajar;72,8
+2022;01 Andalucía;No han trabajado;..
+2022;02 Aragón;Han teletrabajado;7,7
+2022;02 Aragón;No han teletrabajado aunque su trabajo les permitiría teletrabajar;18,3
+2022;02 Aragón;No han teletrabajado porque su trabajo no les permitiría teletrabajar;74
+2022;02 Aragón;No han trabajado;..
+2022;03 Asturias, Principado de;Han teletrabajado;7,6
+2022;03 Asturias, Principado de;No han teletrabajado aunque su trabajo les permitiría teletrabajar;17,6
+2022;03 Asturias, Principado de;No han teletrabajado porque su trabajo no les permitiría teletrabajar;74,9
+2022;03 Asturias, Principado de;No han trabajado;..
+2022;04 Balears, Illes;Han teletrabajado;6,7
+2022;04 Balears, Illes;No han teletrabajado aunque su trabajo les permitiría teletrabajar;16,9
+2022;04 Balears, Illes;No han teletrabajado porque su trabajo no les permitiría teletrabajar;76,5
+2022;04 Balears, Illes;No han trabajado;..
+2022;05 Canarias;Han teletrabajado;10,5
+2022;05 Canarias;No han teletrabajado aunque su trabajo les permitiría teletrabajar;13,4
+2022;05 Canarias;No han teletrabajado porque su trabajo no les permitiría teletrabajar;76,2
+2022;05 Canarias;No han trabajado;..
+2022;06 Cantabria;Han teletrabajado;8,3
+2022;06 Cantabria;No han teletrabajado aunque su trabajo les permitiría teletrabajar;17,8
+2022;06 Cantabria;No han teletrabajado porque su trabajo no les permitiría teletrabajar;73,9
+2022;06 Cantabria;No han trabajado;..
+2022;07 Castilla y León;Han teletrabajado;12,2
+2022;07 Castilla y León;No han teletrabajado aunque su trabajo les permitiría teletrabajar;15,9
+2022;07 Castilla y León;No han teletrabajado porque su trabajo no les permitiría teletrabajar;71,9
+2022;07 Castilla y León;No han trabajado;..
+2022;08 Castilla - La Mancha;Han teletrabajado;5,2
+2022;08 Castilla - La Mancha;No han teletrabajado aunque su trabajo les permitiría teletrabajar;15,9
+2022;08 Castilla - La Mancha;No han teletrabajado porque su trabajo no les permitiría teletrabajar;78,8
+2022;08 Castilla - La Mancha;No han trabajado;..
+2022;09 Cataluña;Han teletrabajado;21,8
+2022;09 Cataluña;No han teletrabajado aunque su trabajo les permitiría teletrabajar;22,1
+2022;09 Cataluña;No han teletrabajado porque su trabajo no les permitiría teletrabajar;56,1
+2022;09 Cataluña;No han trabajado;..
+2022;10 Comunitat Valenciana;Han teletrabajado;11,5
+2022;10 Comunitat Valenciana;No han teletrabajado aunque su trabajo les permitiría teletrabajar;23
+2022;10 Comunitat Valenciana;No han teletrabajado porque su trabajo no les permitiría teletrabajar;65,5
+2022;10 Comunitat Valenciana;No han trabajado;..
+2022;11 Extremadura;Han teletrabajado;6
+2022;11 Extremadura;No han teletrabajado aunque su trabajo les permitiría teletrabajar;18
+2022;11 Extremadura;No han teletrabajado porque su trabajo no les permitiría teletrabajar;76,1
+2022;11 Extremadura;No han trabajado;..
+2022;12 Galicia;Han teletrabajado;8,8
+2022;12 Galicia;No han teletrabajado aunque su trabajo les permitiría teletrabajar;20,3
+2022;12 Galicia;No han teletrabajado porque su trabajo no les permitiría teletrabajar;70,9
+2022;12 Galicia;No han trabajado;..
+2022;13 Madrid, Comunidad de;Han teletrabajado;24,9
+2022;13 Madrid, Comunidad de;No han teletrabajado aunque su trabajo les permitiría teletrabajar;16,2
+2022;13 Madrid, Comunidad de;No han teletrabajado porque su trabajo no les permitiría teletrabajar;59
+2022;13 Madrid, Comunidad de;No han trabajado;..
+2022;14 Murcia, Región de;Han teletrabajado;8,7
+2022;14 Murcia, Región de;No han teletrabajado aunque su trabajo les permitiría teletrabajar;22
+2022;14 Murcia, Región de;No han teletrabajado porque su trabajo no les permitiría teletrabajar;69,3
+2022;14 Murcia, Región de;No han trabajado;..
+2022;15 Navarra, Comunidad Foral de;Han teletrabajado;10,5
+2022;15 Navarra, Comunidad Foral de;No han teletrabajado aunque su trabajo les permitiría teletrabajar;25,2
+2022;15 Navarra, Comunidad Foral de;No han teletrabajado porque su trabajo no les permitiría teletrabajar;64,4
+2022;15 Navarra, Comunidad Foral de;No han trabajado;..
+2022;16 País Vasco;Han teletrabajado;13,6
+2022;16 País Vasco;No han teletrabajado aunque su trabajo les permitiría teletrabajar;20,2
+2022;16 País Vasco;No han teletrabajado porque su trabajo no les permitiría teletrabajar;66,3
+2022;16 País Vasco;No han trabajado;..
+2022;17 Rioja, La;Han teletrabajado;7,5
+2022;17 Rioja, La;No han teletrabajado aunque su trabajo les permitiría teletrabajar;19,1
+2022;17 Rioja, La;No han teletrabajado porque su trabajo no les permitiría teletrabajar;73,4
+2022;17 Rioja, La;No han trabajado;..
+2022;18 Ceuta;Han teletrabajado;7,4
+2022;18 Ceuta;No han teletrabajado aunque su trabajo les permitiría teletrabajar;17,1
+2022;18 Ceuta;No han teletrabajado porque su trabajo no les permitiría teletrabajar;75,4
+2022;18 Ceuta;No han trabajado;..
+2022;19 Melilla;Han teletrabajado;3,8
+2022;19 Melilla;No han teletrabajado aunque su trabajo les permitiría teletrabajar;16,1
+2022;19 Melilla;No han teletrabajado porque su trabajo no les permitiría teletrabajar;80,1
+2022;19 Melilla;No han trabajado;..
 2021;Andalucía;Han teletrabajado;6,2
 2021;Andalucía;No han teletrabajado aunque su trabajo les permitiría teletrabajar;8,7
 2021;Andalucía;No han teletrabajado porque su trabajo no les permitiría teletrabajar;33,7
