@@ -148,8 +148,10 @@ ________________________________________________________________________________
 ](https://www.ine.es/jaxi/Tabla.htm?tpx=60861&L=0 )
 - Coste laboral por trabajador, comunidad autónoma, sectores de actividad -> [
 ](https://www.ine.es/jaxiT3/Tabla.htm?t=6061)
-- [
+- Gastos - >[
 ](
-
-
+- Nivel Educativo -> [
+](https://estadisticas.educacion.gob.es/EducaJaxiPx/Tabla.htm?path=/laborales/epa/nivfor/l0/&file=nivfor_1_01.px&L=0)
+- Abandono temprano educación -> [
+](https://estadisticas.educacion.gob.es/EducaJaxiPx/Datos.htm?path=/laborales/epa/aban/l0/&file=aban_1_01.px)
 _______________________________________________________________________________________________________
