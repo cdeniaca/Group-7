@@ -142,7 +142,14 @@ A partir de este análisis, surgen preguntas adicionales como:
 _______________________________________________________________________________________________________
 
 # Fuentes de Datos 🔗
-
+- Población de 16 o más años de edad por comunidad autónoma -> [
+](https://www.ine.es/jaxiT3/Tabla.htm?t=66266)
+- Uso de productos TIC por las personas de 16 a 74 años -> [
+](https://www.ine.es/jaxi/Tabla.htm?tpx=60861&L=0 )
+- Coste laboral por trabajador, comunidad autónoma, sectores de actividad -> [
+](https://www.ine.es/jaxiT3/Tabla.htm?t=6061)
+- [
+](
 
 
 _______________________________________________________________________________________________________
